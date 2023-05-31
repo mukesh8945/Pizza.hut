@@ -1,1 +1,1 @@
-# Pizza.hut
+# pizzahut.com
